@@ -1,4 +1,7 @@
 # exchange-bitmex
+
+TG： https://t.me/isdapp
+
 exchange-bitmex
 
 原生App ETH，ERC2.0，BTC等仿火币，OTC多币种交易所，区块链机器人，socket心跳行情
